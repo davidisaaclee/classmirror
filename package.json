@@ -1,0 +1,14 @@
+{
+  "name": "classmirror",
+  "version": "1.0.0",
+  "description": "Mirrors instance methods to class methods with `self` argument.",
+  "main": "classmirror.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Isaac Lee <david@david-lee.net> (http://david-lee.net/)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
